@@ -1,4 +1,7 @@
 # reactinterface
+# Getting Started with Create React App, Tailwind CSS, React Icons
+
+- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 1. Create a git repository with name: **reactinterface**
 2. Clone that repository:
@@ -149,10 +152,7 @@
 
   ```
 
-# Getting Started with Create React App
 
-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-- https://www.linkedin.com/learning/react-js-building-an-interface-8551484/
 
 ## Available Scripts
 
