@@ -1,5 +1,5 @@
 import React from 'react';
-import { Input, PrimaryButton } from "../components/FormsElements"
+import { Input, PrimaryButton } from "./FormsElements"
 
 const Login = () => {
     const handleFormSubmit = (e) => {
